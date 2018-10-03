@@ -27,5 +27,7 @@ We built a lightweight Todo List+ Calendar application that automatically schedu
 
 # Feature List
 
+Coming soon
+
 
 

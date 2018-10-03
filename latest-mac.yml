@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: Talendar-1.0.0-mac.zip
+    sha512: bsI/2RI5GINWBE1moLKspZJulBVukHNaBR8IiBWAcQj5rw42wUJMsKRv0nUIPLgi6wJNBLciOQDjCqn8LxKWZA==
+  - url: Talendar-1.0.0.dmg
+    sha512: l3qkgqLb9SzqHaeiZGQHWaa+CJi/sym3BTyHDLXpEwA26NcAs18ixkje3pU+W8qNOQ+0nOA4/v1II20TZkLq5w==
+    size: 69592447
+path: Talendar-1.0.0-mac.zip
+sha512: bsI/2RI5GINWBE1moLKspZJulBVukHNaBR8IiBWAcQj5rw42wUJMsKRv0nUIPLgi6wJNBLciOQDjCqn8LxKWZA==
+releaseDate: '2018-07-22T23:22:20.728Z'
